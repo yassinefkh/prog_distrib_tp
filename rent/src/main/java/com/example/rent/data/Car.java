@@ -5,6 +5,7 @@ public class Car {
     String plateNumber;
     int price;
 
+    // Constructor
     public Car(String plateNumber, int price) {
         this.plateNumber = plateNumber;
         this.price = price;
