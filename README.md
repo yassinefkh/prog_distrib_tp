@@ -1,3 +1,5 @@
+# Projet Prog Distrib
+Pour information , le projet se trouve à l'adresse suivante : [https://github.com/yassinefkh/forum_app](https://github.com/yassinefkh/forum_app)
 # Déploiement d'un service avec Docker et Kubernetes
 
 ## 1. Construction et exécution de l'image Docker
